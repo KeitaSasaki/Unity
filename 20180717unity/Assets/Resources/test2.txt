@@ -1,0 +1,6 @@
+{
+  "name":"勇者",
+  "hp":40,
+  "attack":20,
+  "Deffence":20
+}
